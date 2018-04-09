@@ -1,0 +1,4 @@
+.sg-rg-thumb{
+	border-radius:50%;
+	border: 3px solid #cecad8;
+}
